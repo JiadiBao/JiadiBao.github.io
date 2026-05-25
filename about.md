@@ -7,32 +7,33 @@ layout: page
 
 ## About me
 
-**I am currently looking for a 12-month joint Ph.D. student position in 2024 fall. My research was funded by *China Scholarship Council (CSC)***
+**I am a PhD candidate in the school of information and electronics at the Beijing Institute of Technology. Expecting graduation at 3/2027 (Graduate Early).**
 
 
 
-I am currently a second-year Ph.D. student in the [school of information and electronics](https://sie.bit.edu.cn/) at the Beijing Institute of Technology, under the supervision of [Prof.Shafei Wang](https://ysg.ckcest.cn/html/details/8031/index.html). I received my bachelor's degree in the faculty of information technology at Beijing University of Technology. My research interests are focused on statistical signal processing, sequential change point detection and time-series analysis. 
+I am currently a PhD candidate , under the supervision of Prof. Shafei Wang. I received my bachelor's degree in the faculty of information technology at Beijing University of Technology. My research interests are focused on statistical signal processing, sequential change point detection and time-series analysis. 
 
 <h2>Research Interests</h2>
 
 - Statistical signal processing
 - Sequential change-point detection
-- Time series analysis
-- Variational inference
+- Bayesian Nonparametric Learning
+- RF fingerprint Identification
+- Bayesian Inverse Learning
 
 <h2>Education</h2>
 
-- **9/2022 ～ Present, Ph.D.**
+- **9/2022 ～ 3/2027, Ph.D.**
 
   Beijing Institute of Technology, China
 
-  Supervisor:  [Prof.Shafei Wang](https://ysg.ckcest.cn/html/details/8031/index.html), and Co-supervisor: [Prof. Yunjie Li](https://sie.bit.edu.cn/szdw/jsml/ldydkjsyjsj/zgzcld/25c8f111388c42f3bd3b83541824d6a5.htm)
+  Supervisor:  Prof.Shafei Wang
 
 - **9/2021 ～ 9/2022, M.Sc.**
 
   Beijing Institute of Technology, China
 
-  supervisor: [Prof. Yunjie Li](https://sie.bit.edu.cn/szdw/jsml/ldydkjsyjsj/zgzcld/25c8f111388c42f3bd3b83541824d6a5.htm)
+  supervisor: Prof. Yunjie Li
 
 - **9/2017 ~ 6/2021, B. Eng.**
 
@@ -40,19 +41,32 @@ I am currently a second-year Ph.D. student in the [school of information and ele
 
   Supervisor: Prof. Luheng Jia
 
-<h2>Preprints</h2>
-
-1. Multi-Function radar work mode change detection via non-parametric Bayesian HMM with agile prior
-   - **Jiadi Bao**,  Yunjie Li, Mengtao Zhu, Shafei Wang
-   - Submitted to *IEEE transactions on signal processing*, in peer review
-   - December 2022
-
 <h2>Journal Articles</h2>
 
-1. optimal sequential change detection theory in Multi-Function Radar work mode change detection
+1. Bayesian Nonparametric Hidden Markov Model for Agile Radar Pulse Sequence Analysis
+   * **Jiadi Bao**, Yunjie Li, Mengtao Zhu, ShafeiWang
+   * IEEE Transactions on Signal Processing
+   * 2023
+2. Interleaved Hidden Markov Processes for Deinterleaving Radar Pulse Sequences
+   * **Jiadi Bao**, Mengtao Zhu, Yunjie Li, Shafei Wang
+   * IEEE Transactions on Signal Processing
+   * 2025
+3. Infinite Factorial Linear Dynamical Systems for Transient Signal Detection
+   * **Jiadi Bao**, Yatong Wang, Yunjie Li, Mengtao Zhu, Shafei Wang
+   * IEEE Transactions on Signal Processing
+   * 2025
+4. Optimal Sequential Change Detection Theory in Multi-Function Radar Work Mode Change Detection
    - **Jiadi Bao**, Yunjie Li, Mengtao Zhu, Wei Zhang
    - Acta Electronica Sinica
-   - June 2022
+   - 2022
+5. A Unified Framework Combining Feature Extraction and Reward Estimation for Cognitive Radar Policy Prediction
+   * Luyao Zhang, **Jiadi Bao**, Mengtao Zhu, Chuan Huang
+   * IEEE Transactions on Aerospace and Electronic Systems
+   * 2025
+6. Convergence Analysis of the Factorial Kalman Filter
+   * Congyu Qi, Yunjie Li, Jiadi Bao, Mengtao Zhu
+   * IEEE Signal Processing Letters
+   * 2025
 
 <h2>Conference proceedings</h2>
 
